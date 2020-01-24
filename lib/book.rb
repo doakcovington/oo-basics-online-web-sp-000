@@ -1,4 +1,4 @@
 #book class
-class Book
-  
+class Book(title)
+
 end #end of book class
