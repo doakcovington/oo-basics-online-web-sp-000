@@ -15,6 +15,7 @@ class Book
     @author = author
   end#end of author= method
 
+  #author (getter) method
   def author
     @author = author
   end
