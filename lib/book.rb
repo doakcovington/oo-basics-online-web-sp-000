@@ -7,6 +7,6 @@ class Book
 
   #title method
   def title
-    
+    @title
   end
 end #end of book class
