@@ -5,7 +5,7 @@ class Book
     @title = title
   end
 
-  #title method
+  #title (getter) method
   def title
     @title
   end
