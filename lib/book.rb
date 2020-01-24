@@ -6,7 +6,7 @@ class Book
   end
 
   #title (getter) method
-def title
+  def title
     @title
   end
 end #end of book class
