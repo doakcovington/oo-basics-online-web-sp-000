@@ -1,5 +1,4 @@
 #book class
-class Book 
+class Book
   
 end #end of book class
-
