@@ -1,7 +1,7 @@
 #book class
 class Book
   #initalize method
-  def initalize(title)
+  def initialize(title)
 
   end
 end #end of book class
