@@ -8,10 +8,10 @@ class Book
   #title (getter) method
   def title
     @title
-  end
+  end#end of title method
 
-  #author method
+  #author (setter) method
   def author=(author)
     @author = author
-  end
+  end#end of author= method
 end #end of book class
