@@ -9,4 +9,9 @@ class Book
   def title
     @title
   end
+
+  #author method
+  def author=(author)
+    @author = author
+  end
 end #end of book class
